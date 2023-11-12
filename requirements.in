@@ -2,3 +2,4 @@ PyGithub
 langchain
 tiktoken
 python-dotenv
+openai

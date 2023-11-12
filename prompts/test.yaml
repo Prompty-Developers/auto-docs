@@ -1,0 +1,12 @@
+_type: prompt
+input_variables: ["contents", "template"]
+template:
+  "Your job is to write documentation for the following code in markdown-formatted string following the following template:\n\n
+  
+  CODE:\n
+  {contents}\n\n
+
+  TEMPLATE:\n
+  {template}\n\n
+
+  DOCUMENTATION:\n"
